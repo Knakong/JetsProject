@@ -1,0 +1,7 @@
+Cargo, 700.00, 3000, 20.4
+CargoAttack, 700, 2500, 25.6
+CargoSpy, 700, 3000, 30.2
+Jammer, 1200, 2000, 40.4
+FighterJammer, 1600, 3000, 50.2
+SimpleJet, 1200, 1500, 15.2
+Fighter, 2000, 2000, 45.2
